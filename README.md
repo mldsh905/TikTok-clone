@@ -1,6 +1,6 @@
 ## Introduction
 
-TikTok Clone is a mobile app that allows users to browse and watch short-form videos, just like TikTok. This app is built using React Native, Firebase, and other open-source libraries.
+TikTok Clone is a mobile app that allows users to browse and watch short-form videos, just like TikTok.
 
 ## Screenshot
 
@@ -29,4 +29,4 @@ To install TikTok Clone, follow these steps:
 * Upload your own videos
 
 ## Contributions
-We welcome contributions from the community. If you find a bug, have a feature request, or want to submit a pull request, please follow the instructions in our CONTRIBUTING.md file.
+We welcome contributions from the community.
